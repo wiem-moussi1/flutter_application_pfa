@@ -16,8 +16,8 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       //home: WelcomePage(),
-      home: ConcentricAnimationOnboarding() ,
-      //home: MainScreen(),
+      //home: ConcentricAnimationOnboarding() ,
+      home: MainScreen(),
     );
   }
 }
